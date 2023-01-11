@@ -1,16 +1,29 @@
 {
-  "name": "jsonserv",
+  "name": "projeto_json_server",
   "version": "1.0.0",
+  "description": "Projeto individual - Modulo 3",
   "main": "server.js",
-  "dependencies": {
-    "json-server": "^0.17.1"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloxd2022/projeto_individual.git"
+  },
+  "keywords": [
+    "Resilia",
+    "-",
+    "Senac",
+    "-",
+    "jsonServer"
+  ],
   "author": "Danilo N",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/daniloxd2022/projeto_individual/issues"
+  },
+  "homepage": "https://github.com/daniloxd2022/projeto_individual#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
