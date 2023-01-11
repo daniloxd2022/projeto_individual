@@ -1,0 +1,123 @@
+{
+    "placaMae":[
+        {
+            "id": 1 ,
+            "Modelo":"B560M-A PRO",
+            "Marca":"MSI",
+            "Arquitetura":"Intel",
+            "Preco":499.99
+        },
+        {
+            "id": 2 ,
+            "Modelo":"B550m Steel Legend",
+            "Marca":"ASROCK",
+            "Arquitetura":"AMD",
+            "Preco":2.167  
+        },
+        {
+            "id": 3 ,
+            "Modelo":"MAG B560M BAZOOKA",
+            "Marca":"MSI",
+            "Arquitetura":"Intel",
+            "Preco":840.99   
+        },
+        {
+            "id": 4 ,
+            "Modelo":"TUF GAMING A520M-PLUS",
+            "Marca":"ASUS",
+            "Arquitetura":"AMD",
+            "Preco":783.99   
+        }
+
+    ],
+    "placaVideo":[
+        {
+            "id": 1 ,
+            "Modelo":"Nvidia GeForce GTX 1630 EX",
+            "Marca":"Galax",
+            "Arquitetura":null,
+            "Preco":899.99 
+        },
+        {
+            "id": 2 ,
+            "Modelo":"GeForce RTX 2060 VENTUS GP OC",
+            "Marca":"MSI",
+            "Arquitetura":null,
+            "Preco":1.849   
+        },
+        {
+            "id": 3 ,
+            "Modelo":"RX-665X8LUDY QICK308 ULTRA",
+            "Marca":"XFX",
+            "Arquitetura":"AMD",
+            "Preco":2.732   
+        },
+        {
+            "id": 4 ,
+            "Modelo":"GT 210",
+            "Marca":"Galax",
+            "Arquitetura":null,
+            "Preco":1.849   
+        }
+    ],
+    "HardDisk":[
+        {
+            "id": 1 ,
+            "Modelo":" 4TB BarraCuda, 3.5",
+            "Marca":"Seagate",
+            "Arquitetura":"SATA",
+            "Preco":479.99  
+        },
+        {
+            "id": 2 ,
+            "Modelo":" 1TB BarraCuda, 3.5",
+            "Marca":"Seagate",
+            "Arquitetura":"SATA",
+            "Preco":249.99           
+        },
+        {
+            "id": 3 ,
+            "Modelo":"Purple Surveillance, 1TB, 3.5, SATA",
+            "Marca":"WD",
+            "Arquitetura":"SATA",
+            "Preco":249.99           
+        },
+        {
+            "id": 4 ,
+            "Modelo":" PC L200, 1TB, 2.5",
+            "Marca":"Toshiba",
+            "Arquitetura":"SATA",
+            "Preco":284.99           
+        }
+    ],
+    "MemoriaRam":[
+        {
+            "id": 1 ,
+            "Modelo":"AX4U32008G16A-SR10/8gb",
+            "Marca":"XPG",
+            "Arquitetura":"DDR4",
+            "Preco":210.99    
+        },
+        {
+            "id": 2 ,
+            "Modelo":"KF432C16BBA/8gb",
+            "Marca":"Kingston",
+            "Arquitetura":"DDR4",
+            "Preco":209.99  
+        },
+        {
+            "id": 3 ,
+            "Modelo":"AX5U5200C3816G-CLARBK/16gb",
+            "Marca":" XPG",
+            "Arquitetura":"DDR5",
+            "Preco":1.109 
+        },
+        {
+            "id": 4 ,
+            "Modelo":"CMZ8GX3M1A1600C9/8gb",
+            "Marca":"Corsair",
+            "Arquitetura":"DDR3",
+            "Preco":252.99  
+        }
+    ]
+}
